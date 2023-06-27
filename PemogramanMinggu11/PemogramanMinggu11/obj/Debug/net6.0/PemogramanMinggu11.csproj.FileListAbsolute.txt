@@ -1,0 +1,15 @@
+D:\22.11.4825_Pemograman\Pemograman Minggu 11\Program Printer dengan Abstrak Minggu 11\PemogramanMinggu11\PemogramanMinggu11\bin\Debug\net6.0\PemogramanMinggu11.exe
+D:\22.11.4825_Pemograman\Pemograman Minggu 11\Program Printer dengan Abstrak Minggu 11\PemogramanMinggu11\PemogramanMinggu11\bin\Debug\net6.0\PemogramanMinggu11.deps.json
+D:\22.11.4825_Pemograman\Pemograman Minggu 11\Program Printer dengan Abstrak Minggu 11\PemogramanMinggu11\PemogramanMinggu11\bin\Debug\net6.0\PemogramanMinggu11.runtimeconfig.json
+D:\22.11.4825_Pemograman\Pemograman Minggu 11\Program Printer dengan Abstrak Minggu 11\PemogramanMinggu11\PemogramanMinggu11\bin\Debug\net6.0\PemogramanMinggu11.dll
+D:\22.11.4825_Pemograman\Pemograman Minggu 11\Program Printer dengan Abstrak Minggu 11\PemogramanMinggu11\PemogramanMinggu11\bin\Debug\net6.0\PemogramanMinggu11.pdb
+D:\22.11.4825_Pemograman\Pemograman Minggu 11\Program Printer dengan Abstrak Minggu 11\PemogramanMinggu11\PemogramanMinggu11\obj\Debug\net6.0\PemogramanMinggu11.csproj.AssemblyReference.cache
+D:\22.11.4825_Pemograman\Pemograman Minggu 11\Program Printer dengan Abstrak Minggu 11\PemogramanMinggu11\PemogramanMinggu11\obj\Debug\net6.0\PemogramanMinggu11.GeneratedMSBuildEditorConfig.editorconfig
+D:\22.11.4825_Pemograman\Pemograman Minggu 11\Program Printer dengan Abstrak Minggu 11\PemogramanMinggu11\PemogramanMinggu11\obj\Debug\net6.0\PemogramanMinggu11.AssemblyInfoInputs.cache
+D:\22.11.4825_Pemograman\Pemograman Minggu 11\Program Printer dengan Abstrak Minggu 11\PemogramanMinggu11\PemogramanMinggu11\obj\Debug\net6.0\PemogramanMinggu11.AssemblyInfo.cs
+D:\22.11.4825_Pemograman\Pemograman Minggu 11\Program Printer dengan Abstrak Minggu 11\PemogramanMinggu11\PemogramanMinggu11\obj\Debug\net6.0\PemogramanMinggu11.csproj.CoreCompileInputs.cache
+D:\22.11.4825_Pemograman\Pemograman Minggu 11\Program Printer dengan Abstrak Minggu 11\PemogramanMinggu11\PemogramanMinggu11\obj\Debug\net6.0\PemogramanMinggu11.dll
+D:\22.11.4825_Pemograman\Pemograman Minggu 11\Program Printer dengan Abstrak Minggu 11\PemogramanMinggu11\PemogramanMinggu11\obj\Debug\net6.0\refint\PemogramanMinggu11.dll
+D:\22.11.4825_Pemograman\Pemograman Minggu 11\Program Printer dengan Abstrak Minggu 11\PemogramanMinggu11\PemogramanMinggu11\obj\Debug\net6.0\PemogramanMinggu11.pdb
+D:\22.11.4825_Pemograman\Pemograman Minggu 11\Program Printer dengan Abstrak Minggu 11\PemogramanMinggu11\PemogramanMinggu11\obj\Debug\net6.0\PemogramanMinggu11.genruntimeconfig.cache
+D:\22.11.4825_Pemograman\Pemograman Minggu 11\Program Printer dengan Abstrak Minggu 11\PemogramanMinggu11\PemogramanMinggu11\obj\Debug\net6.0\ref\PemogramanMinggu11.dll
